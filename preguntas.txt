@@ -1,0 +1,150 @@
+¿Cuál es el resultado de la operación $$\frac{[3+(6)(3)]}{7} + 2(2 − 5)^2$$?
+A) -29
+B)	21
+C)	25
+D)	27
+ANSWER: B
+Si 32 son las \(\frac{4}{5}\) partes del grupo, ¿cuántos alumnos tiene el grupo?
+A)	30 alumnos
+B)	36 alumnos
+C)	40 alumnos
+D)	42 alumnos
+ANSWER: C
+¿Qué ecuación corresponde a una circunferencia de radio \(r = 7\) y centro en el origen?
+A) $$x^2 + y^2 = 7$$
+B) $$x^2 + y^2 = 0$$
+C) $$x^2 + y^2 = 14$$
+D) $$x^2 + y^2 = 49$$
+ANSWER: D
+¿Cuál de las siguientes ecuaciones es una parábola con vértice en el origen y que abre hacia la derecha?
+A) $$y^2 = 8x$$
+B) $$y^2 = -8x$$
+C) $$x^2 = 8y$$
+D) $$y^2 = -8y$$
+ANSWER: A
+¿En qué opción se está calculando correctamente el resultado de la operación \(\frac{7−5(3)}{2−6}\)? 
+A) $$\frac{2(3)}{2−6}=\frac{6}{-6}=−1.5$$
+B) $$\frac{7−15}{2−6}=\frac{8}{4}=4$$
+C) $$\frac{2(3)}{2−6}=\frac{6}{4}=1.5$$
+D) $$\frac{7−15}{2−6}=\frac{−8}{-4}=2$$
+ANSWER: D
+Un caminante recorre \(2\frac{1}{3}\)km el lunes, \(3\frac{1}{2}\)km el miércoles y 1 km el viernes, ¿cuántos kilómetros recorrió en esos tres días?
+A)	$$6\frac{5}{6}$$
+B)	$$6\frac{3}{10}$$
+C)	$$6\frac{1}{2}$$
+D)	$$6\frac{1}{6}$$
+ANSWER: A
+A un balón de futbol que cuesta $289.00 se le aplicará un descuento del 35%, ¿a cuánto equivale este descuento?
+A) $10.11
+B) $12.11
+C) $82.57
+D) $101.15
+ANSWER: D
+Una botella de 600 ml de cierta bebida gaseosa contiene el equivalente de 3 porciones,¿cuántos ml de la bebida se necesitan para tener 7 porciones?
+A) $$\frac{600}{x}=\frac{3}{7} \rightarrow 600x = 21 \rightarrow x = \frac{600}{21}=28.57~\tetxrm{ml}$$
+B) $$\frac{300}{x}=\frac{600}{7} \rightarrow 21 = 600x \rightarrow x = \frac{21}{600}=35~\tetxrm{ml}$$
+C) $$\frac{600}{x}=\frac{3}{7} \rightarrow 3x = 4200 \rightarrow x = \frac{4200}{3}=1400~\tetxrm{ml}$$
+D) $$\frac{600}{3}=\frac{x}{7} \rightarrow 1800 = 7x \rightarrow x = \frac{1800}{7}=257.14~\tetxrm{ml}$$
+ANSWER: C
+Una tienda de saldos tiene todo con un 25% de descuento. Por una silla piden normalmente $300, ¿cuánto se pagará por la silla ya con el descuento?
+A) $225
+B) $75
+C) $25
+D) $124
+ANSWER: A
+Fernando compró una camisa cuyo precio era de $200, si sólo pagó $170, ¿qué porcentaje le hicieron de descuento?
+A) 10%
+B) 15%
+C) 20%
+D) 30%
+ANSWER: B
+Adrián compra cuatro cajas de mangos y cada una pesa entre 18 y 20 kilogramos. Si vende 2 cajas y 15 kilogramos más, entonces sobran entre ___ y ___ kilogramos de mangos.
+A) 15-21
+B) 21-25
+C) 36-40
+D) 26-35
+ANSWER: B
+En un terreno que ocupa 5500 metros cuadrados, se construye un fraccionamiento que ocupa el 80% de casas, el 60% del resto se deja para estacionamiento y del nuevo resto, el 30% se usa para áreas verdes, ¿cuántos metros cuadrados son de casas?
+A) $$4400 m^2$$
+B) $$1100 m^2$$
+C) $$4000 m^2$$
+D) $$800 m^2$$
+ANSWER: A
+La ecuación \( (x − 2)^2 + (y + 3)^2 = 1\), corresponde a una:
+A)	Circunferencia con centro en \(C=(0, 0)\) y radio \(r=1\)
+B)	Circunferencia con centro en \(C=(2, -3)\) y radio \(r=1\)
+C)	Elipse con centro en \(C=(-2, 3)\) y semieje mayor \(a=1\)
+D)	Elipse con centro en \(C=(0, 0)\) y semieje mayor \(a=1\)
+ANSWER: B
+¿Qué ecuación corresponde a una circunferencia?
+A) $$\frac{x^2}{4} + y^2 = 1$$
+B) $$x^2 = −4y$$
+C) $$x^2+y^2 = 4$$
+D) $$y^2 = 9x$$
+ANSWER: C
+¿Cuál de las siguientes gráficas corresponde a la función \(f(x) = x^2 + 10\)?
+A) 6
+B) -4
+C) 4
+D) 2
+ANSWER: A
+¿Cuál es la ordenada al origen \(b\) de la siguiente recta?
+A)	6
+B)	-4
+C)	4
+D)	2
+ANSWER: B
+Dada la función \(f(x) = 2x^2 − 3x + 8\), el valor de \(f(−2)\) está determinado por:
+A)	22
+B)	6
+C)	10
+D)	20
+ANSWER: A
+Observando la gráfica ¿Cuál fue la calificación promedio (media) entre los 15 estudiantes?
+A) 7.8
+B) 5
+C) 7.26
+D) 8
+ANSWER: C
+¿Cuál es la mediana del conjunto de calificaciones?
+A)	5
+B)	8
+C)	7
+D)	6
+ANSWER: C
+¿Qué calificación sería la moda?
+A)	7
+B)	8
+C)	5
+D)	6
+ANSWER: B
+En el taller de don Raúl se tiene un cajón con 60 tornillos, de los cuales 32 no están oxidados,¿cuál es la probabilidad de que al tomar un tornillo esté oxidado?
+A) \(\frac{8}{15}\)
+B) \(\frac{7}{15}\)
+C) \(\frac{1}{3}\)
+D) \(\frac{1}{5}\)
+ANSWER: B
+Una urna contiene 8 bolas rojas, 5 amarillas y 7 verdes. Si se extrae una bola al azar, ¿cuál es la probabilidad de que se saque una bola roja?
+A) \(\frac{4}{10}\)
+B) \(\frac{5}{20}\)
+C) \(\frac{7}{10}\)
+D) \(\frac{7}{20}\)
+ANSWER: A
+El crecimiento observado al sembrar una planta se muestra en la siguiente gráfica, ¿cuál es la ecuación general que lo representa correctamente?
+A) \(x − 2y = 0 \)
+B) \(2x − y = 0 \)
+C) \(x − y − 15 = 0 \)
+D) \(x + y + 45 = 0 \)
+ANSWER: A
+El salario profesional de un policía dependerá en gran medida de sus años de experiencia, como lo muestra la siguiente tabla,¿cuál de las siguientes ecuaciones representa correctamente la relación años-salario?
+A) \(y = 200x \)
+B) \(y = 1000x+1000 \)
+C) \(y = 2000x+1000 \)
+D) \(y = 1000x \)
+ANSWER: D
+¿Cuál es la ecuación de la recta que representa correctamente lo descrito en la gráfica?
+A) \(y = −x − 2\)
+B) \(y-2 =-x+2 \)
+C) \(y= x - 2\)
+D) \(y=-2x+2\)
+ANSWER: A
